@@ -11,7 +11,6 @@ st.title("Sistem Deteksi Risiko Penyakit Jantung 🫀")
 st.markdown("""
 Aplikasi ini menggunakan model **Deep Learning (1D-CNN)** untuk memprediksi risiko penyakit jantung 
 berdasarkan data medis pasien. 
-*Tugas UAS Deep Learning*
 ---
 """)
 
