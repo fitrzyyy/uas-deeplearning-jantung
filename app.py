@@ -9,7 +9,7 @@ st.set_page_config(page_title="Heart Disease Detector", page_icon="❤️")
 # 1. Judul dan Deskripsi
 st.title("Sistem Deteksi Risiko Penyakit Jantung 🫀")
 st.markdown("""
-Aplikasi ini menggunakan model **Deep Learning (1D-CNN)** untuk memprediksi risiko penyakit jantung 
+Aplikasi ini** untuk memprediksi risiko penyakit jantung 
 berdasarkan data medis pasien. 
 ---
 """)
